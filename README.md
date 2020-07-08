@@ -9,7 +9,7 @@ jdk8(7)+tomcat7+mysql+eclipse(idea)
 
 jsp+servlet+js
 
-运行地址：http://localhost:8080/indexSelect
+运行地址：http://localhost:8080/indexSelect（本地）
 
 管理员登录账号admin admin
 
