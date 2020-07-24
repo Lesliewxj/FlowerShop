@@ -1,25 +1,25 @@
 # FlowerShop--花城(鲜花销售商城)
-一套完整的网上花店商场系统，系统支持前台会员的注册登陆,系统留言，花朵的品种选择，详情浏览，加入购物车，购买花朵等；后台支持管理员的花朵种类添加，花朵详情的添加修改,用户管理，留言管理，商场新闻管理等
+A complete online florist shopping mall system. The system supports the registration and login of members at the front desk, system messages, selection of flower varieties, detailed browsing, adding to shopping carts, purchasing flowers, etc.; the background supports adding flower types to the administrator and adding flower details Modification, user management, message management, shopping mall news management, etc.
 
-运行环境:
+Operating environment:
 
 jdk8(7)+tomcat7+mysql+eclipse(idea)
 
-项目技术:
+Project technology:
 
 jsp+servlet+js
 
-运行地址（本地）：http://localhost:8080/indexSelect
+Operating address (local): http://localhost:8080/indexSelect
 
-管理员登录账号admin admin
+Administrator login account： admin admin
 
-注意事项
+Precautions
 
-1.部署当前项目的时候，需要修改tomcat部署文件server.xml配置文件，编码方式改为UTF-8
+1. When deploying the current project, you need to modify the tomcat deployment file server.xml configuration file and change the encoding method to UTF-8
 
-jsp+servlet开发java web网上花店商城系统，后台可配置化，方便修改，也可修改做成其他商城类项目
+Jsp+servlet develops java web online flower shop mall system, the background can be configured, convenient to modify, can also be modified into other mall projects
 
-其他按照正常操作来，即可完成项目部署运行，主页的图片显示可能会出现问题，需要修改路径，如果有什么问题可以加qq2445054599进行交流沟通。
+Others follow the normal operation to complete the project deployment and operation. The picture display on the homepage may have problems, and the path needs to be modified. If there is any problem, you can add qq2445054599 for communication.
 
-2.支付功能没有实现，只是模拟支付成功,欢迎交流，大佬勿喷。
+2. The payment function has not been implemented, it is just a simulation of successful payment. Welcome to communicate.
 
