@@ -3,7 +3,7 @@ A complete online florist shopping mall system. The system supports the registra
 
 Operating environment:
 
-jdk8(7)+tomcat7+mysql+eclipse(idea)
+jdk8(7)+tomcat7+mysql+eclipse(or idea)
 
 Project technology:
 
