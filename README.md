@@ -11,7 +11,7 @@ jsp+servlet+js
 
 Operating address (local): http://localhost:8080/indexSelect
 
-Administrator login account： account:admin password:admin
+Administrator login account： account: admin password: admin
 
 Precautions
 
