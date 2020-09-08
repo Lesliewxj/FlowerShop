@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 import com.hr.entity.EASYBUY_DD;
-
+//查询订单
 public class EASYBUY_DDDao {
 	public static ArrayList<EASYBUY_DD> selectById(int id){
 		ArrayList<EASYBUY_DD> dd=new ArrayList<EASYBUY_DD>();
